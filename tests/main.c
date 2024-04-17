@@ -143,3 +143,7 @@ int main(void)
 	}
 }
 
+static void test_all_datastructures(void)
+{
+	return;
+}
