@@ -145,5 +145,22 @@ int main(void)
 
 static void test_all_datastructures(void)
 {
+	// test stack and other DataStructures 
+	return;
+}
+
+static void test_all_datastructures1(void)
+{
+	// test stack and other DataStructures 
+	return;
+}
+static void test_all_datastructures2(void)
+{
+	// test stack and other DataStructures 
+	return;
+}
+static void test_all_datastructures3(void)
+{
+	// test stack and other DataStructures 
 	return;
 }
