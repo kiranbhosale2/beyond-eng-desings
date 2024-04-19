@@ -126,6 +126,7 @@ void bstree_delete(bstree *tree, bstree_node *node)
 	}
 }
 
+
 /*
 * The BST init function
 */
